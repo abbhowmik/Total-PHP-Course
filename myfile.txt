@@ -1,0 +1,2 @@
+this is myfile.txt
+here is the main content
